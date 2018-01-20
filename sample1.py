@@ -39,4 +39,3 @@ print("테스트 세트에 대한 예측 값 :\n {}".format(y_pred))
 print("테스트 세트의 정확도 : {:.2f}".format(knn.score(X_test,y_test)))
 # 테스트 세트에 대한 타겟 값을 predict 메소드를 통해 예측한다.
 # score 메소드를 사용하여 테스트 세트의 정확도를 계산한다.
-#ㅋㅋ
